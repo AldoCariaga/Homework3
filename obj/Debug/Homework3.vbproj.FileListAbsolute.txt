@@ -1,0 +1,11 @@
+C:\Users\Aldo Cariaga\Desktop\Homework3\bin\Debug\Homework3.exe.config
+C:\Users\Aldo Cariaga\Desktop\Homework3\bin\Debug\Homework3.exe
+C:\Users\Aldo Cariaga\Desktop\Homework3\bin\Debug\Homework3.pdb
+C:\Users\Aldo Cariaga\Desktop\Homework3\bin\Debug\Homework3.xml
+C:\Users\Aldo Cariaga\Desktop\Homework3\obj\Debug\Homework3.vbprojAssemblyReference.cache
+C:\Users\Aldo Cariaga\Desktop\Homework3\obj\Debug\Homework3.Form1.resources
+C:\Users\Aldo Cariaga\Desktop\Homework3\obj\Debug\Homework3.Resources.resources
+C:\Users\Aldo Cariaga\Desktop\Homework3\obj\Debug\Homework3.vbproj.GenerateResource.cache
+C:\Users\Aldo Cariaga\Desktop\Homework3\obj\Debug\Homework3.exe
+C:\Users\Aldo Cariaga\Desktop\Homework3\obj\Debug\Homework3.xml
+C:\Users\Aldo Cariaga\Desktop\Homework3\obj\Debug\Homework3.pdb
